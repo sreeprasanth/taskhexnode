@@ -16,6 +16,8 @@ Clone the repository using `git clone <repository-url>`, install dependencies us
 - **Lucide-react** - Icon library
 - **Custom Components** - All other UI elements are custom-built
 
----
+  ## Documentation link
+  - **https://docs.google.com/document/d/10ct68Ugf0HrRTdw0WgGV-RUoy3X622u4qbOsHP0HAho/edit?usp=sharing
+--
 
 Now you're all set! 🚀
